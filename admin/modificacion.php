@@ -61,7 +61,7 @@
 	<body class="colofondo">
 
 <?php
-$conexion = mysqli_connect("localhost", "root", "", "php_multilogin") or
+$conexion = mysqli_connect("b6ev4mlskxgzxbe8deuq-mysql.services.clever-cloud.com", "uosw2tajeneyji6e", "xbKicQBkE8r8LQiZxTxa", "b6ev4mlskxgzxbe8deuq") or
 die("Problemas con la conexión");
     
     
